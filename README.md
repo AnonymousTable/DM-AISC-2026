@@ -48,9 +48,10 @@ Numerical example 4: `M = 6` and `beta = 10^6`. The spectrum compares the clean 
 
 ![Figure S3. Clean tanh source with a cubic-quintic dictionary.](tanh_quintic.png)
 
-## Supplementary Table S1: Computational resource measurements
-
-[**Supplementary Table S1 — `resource_results.tex`**](resource_results.tex) reports computational-resource measurements for the evaluated methods, including fitting time, peak process memory, and inference time. The table is provided as a LaTeX source file and complements the computational-resource analysis in the paper.
+[**Supplementary Table S1 — Computational resource measurements**](resource_results.md)
+reports computational resource measurements for the evaluated methods,
+including dictionary construction time, fitting time, peak process memory,
+and inference time. The table is provided in Markdown format.
 
 ## Experimental context
 
